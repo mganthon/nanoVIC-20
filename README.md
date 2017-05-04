@@ -1,6 +1,9 @@
 # nanoVIC-20
 Emulating a CBM VIC-20 with NTSC video on a standalone Arduino Nano
 
+Project originaly published here: https://www.hackster.io/janost/the-nano-vic-20-e37b39
+I am not the creator.  I only want to document my experiments with this with the goal of expanding the project to be a self-contained VIC-20 clone using a PS/2 keyboard, SD floppy emulator, and LED indicator. The goal is to enclose all of this in the keyboard. - mganthon
+
 ## STORY
 
 The VIC-20 emulator on an AVR
