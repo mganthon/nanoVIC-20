@@ -18,7 +18,7 @@ The schematics is simple and can be seen here to the right.
 It's just a 470ohm and 1K resistor connected to TX and D2 on the Nano.
 It mixes the pixelstream and sync pulses to a composite NTSC videosignal.
 
-## The challange
+## The challenge
 How do you squeeze the 5K RAM/20K ROM VIC-20 on to the ATmega328?
 And give it a video output?
 
